@@ -15,7 +15,6 @@ Hello, I'm Ygor Oliveira, 27 years old, and I'm excited to share my learning and
 ![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Intel Badge](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 I look forward to exploring new challenges and conquering new horizons in my career. If you're interested in collaborating or connecting, please don't hesitate to reach out!
 
