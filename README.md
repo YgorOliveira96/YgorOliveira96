@@ -18,4 +18,4 @@ Hello, I'm Ygor Oliveira, 27 years old, and I'm excited to share my learning and
 
 I look forward to exploring new challenges and conquering new horizons in my career. If you're interested in collaborating or connecting, please don't hesitate to reach out!
 
-Thank you for visiting my GitHub profile. Let's build something amazing together! 
+Thank you!
